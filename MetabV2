@@ -1,0 +1,718 @@
+
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Iphone"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Ipad"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "PropMaker"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Laptop"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "ShoppingCart"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Paperbag"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Sign"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Book"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Envelope"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Paper"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "ClipBoard"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Ticket"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Licence"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BabyBoy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BabyGirl"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BabyBottle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Stroller"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BabyHippo"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BabyMonkey"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Wagon"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Stretcher"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Stethoscope"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Syringe"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "SyringeZ"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Medicine"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Ear"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Toothbrush"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Hairbrush"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Trophy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CarryOn"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "PlaneTicket"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "SWATShield"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Cuffs"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Taser"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Glock"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "GlockBrown"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "GlockBrown"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Assault"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Sniper"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Bomb"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "DuffleBag"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "DuffleBagMoney"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Money"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CreditCardBoy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CreditCardGirl"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Binocks"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "HandRadio"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "GhostMeter"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FlashLight"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Marshmello"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "SleepingBag"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FishingRod"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Umbrella"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Balloon"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Present"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Roses"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Microphone"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Camcorder"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Guitar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "ElectricGuitar"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Axe"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Hammer"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Wrench"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FireX"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Cones"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Ladder"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "LawnMower"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Shovel"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Bucket"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "WateringCan"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Box"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Vacuum"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Mop"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "SoccerBall"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Basketball"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Weights"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FoodCart"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FoodTray"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "TakeOut"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "TakeOutHappyBurger"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "TakeOutPizza"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "PrisonTray"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BurgerTray"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BreakfestPlate1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "LunchPlate1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "DinnerPlate1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "DinnerPlate2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Apple"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Banana"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "AppleGreen"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Popcorn"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Chips"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Hamburger"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "HotDog"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Burrito"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Taco"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Sandwich"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Guda"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Pizza"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Pretzel"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Waffle"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "MuffinBlueBerry"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "YummyBread"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CookieChip"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Donut"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CakePink"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "CottonCandyPurple"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Reeses"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Hershey"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Icecream"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "ShakeChocolate"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FrapStrawberry"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "FrapMint"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Mocha"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Milk"
+}
+
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "BottledWater"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Bloxaide"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+local args = {
+	[1] = "2NN2Pick2NN2ingTo2NN2ols",
+	[2] = "Coke"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("NN2"):WaitForChild("2NN2T2NN2ool"):InvokeServer(unpack(args))
+
+for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if v.ClassName == "Tool" then
+		v.CanBeDropped = true
+		v.Parent = game.Players.LocalPlayer.Character
+		wait()
+		v.Parent = workspace.Terrain
+	end
+	end
+	
